@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AnuragS202
+- 👋 Hi, I’m @Anurag Singh
 - 👀 I’m interested in frond end, and cloud
 - 🌱 I’m currently learning react, python and doing aws certification 
 - 📫 How to reach me - Anurag.singh202@gmail.com 

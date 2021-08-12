@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Anurag Singh
 - 👀 I’m interested in frond end technologies and cloud
-- 🌱 I’m currently learning javascript
-- I know python, django, relational database and front end technologies 
+- 🌱 I’m currently learning javascript 
+-    I know python, django, Sql , NoSql database learning front end technologies 
 - 📫 How to reach me - Anurag.singh202@gmail.com 
 
 <!---

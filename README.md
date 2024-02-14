@@ -20,12 +20,11 @@
 #### and a browser extention. Contribute Now:  https://github.com/pritipsingh/The-Productive-Champion
 
 
-### 🔖 <a href="https://hashnode.com/@pritisingh">Click Here To Recent My Technical Articles On Hashnode</a>  
 
-- 👯‍♀️ If you want to collab with me on an open source project or a hackathon. Shoot me a mail at: mail2pritipriya@gmail.com
 
-<span>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pritipsingh&show_icons=true&locale=en" alt="pritipsingh" /></span>
-<span><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pritipsingh&show_icons=true&locale=en&layout=compact" alt="pritipsingh" /></span>
+- 👯‍♀️ If you want to collab with me on an open source project or a hackathon. Shoot me a mail at: anurag.singh202@gmail.com
+
+
 
 <!---
 AnuragS202/AnuragS202 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

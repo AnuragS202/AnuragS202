@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anurag Singh</h1>
 <h3 align="center">A Software Engineer</h3>
 
-- 🔭 I’m currently working on **Travel Mate(All in one app for road trips)**
+
 
 - 📝 I regularly write articles on [https://anurag24.hashnode.dev/](https://anurag24.hashnode.dev/)
 

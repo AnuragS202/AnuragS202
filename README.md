@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **anurag.singh202@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ZbpYMqN5LLkQaUveK8BgTR2QSo-DZLNO/view?usp=sharing](https://drive.google.com/file/d/1ZbpYMqN5LLkQaUveK8BgTR2QSo-DZLNO/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1IL3Rec2TeXYoF2wMaqc96gNd2nc22uKg/view?usp=drive_link)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->

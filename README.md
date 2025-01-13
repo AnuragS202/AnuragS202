@@ -1,6 +1,6 @@
 # Hi there, I'm Anurag 👋
 
-Welcome to my GitHub profile! I'm a passionate developer with a love for creating innovative solutions and exploring new technologies. Here's a bit about me:
+Welcome to my GitHub profile! I'm a passionate developer who loves creating innovative solutions and exploring new technologies. Here's a bit about me:
 
 ## 🚀 About Me
 
@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for creatin
 - **Languages:**  JavaScript, Python, ASP.NET  
 - **Web Development:** HTML, CSS, React, Node.js
 - **Databases:** MySQL, MongoDB
-- **Tools:** Git, Docker, VS Code, J
+- **Tools:** Git, Docker, VS Code
 
 ## 📈 GitHub Stats
 
@@ -23,9 +23,10 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for creatin
 
 ## 📫 How to Reach Me
 
-- **Email:** anurag@example.com
+- **Email:** anurag.singh202@gmail.com
+- **Website:**  www.Asingh202.com
 - **LinkedIn:** [AnuragS202](https://www.linkedin.com/in/anurags202/)
-- **Twitter:** [@AnuragS202](https://twitter.com/AnuragS202)
+- **Twitter:** [@AnuragSingh](https://twitter.com/im_anurag24)
 
 ## 🔭 Projects
 

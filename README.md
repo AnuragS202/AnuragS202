@@ -28,6 +28,9 @@ Welcome to my GitHub profile! I'm a passionate developer who loves creating inno
 - **LinkedIn:** [AnuragS202](https://www.linkedin.com/in/anuragsingh202/)
 - **Twitter:** [@AnuragSingh](https://twitter.com/im_anurag24)
 
+
+![Profile Views](https://komarev.com/ghpvc/?username=AnuragS202&color=blue)
+
 ## 🔭 Projects
 
 

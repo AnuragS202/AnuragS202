@@ -24,7 +24,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves creating inno
 ## 📫 How to Reach Me
 
 - **Email:** anurag.singh202@gmail.com
-- **Website:**  [WIP](Asingh202.com) 
+- **Website:**  Asingh202.com **WIP** 
 - **LinkedIn:** [AnuragS202](https://www.linkedin.com/in/anurags202/)
 - **Twitter:** [@AnuragSingh](https://twitter.com/im_anurag24)
 

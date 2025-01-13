@@ -1,24 +1,53 @@
-<h1 align="center">Hi 👋, I'm Anurag Singh</h1>
-<h3 align="center">A Software Engineer</h3>
+# Hi there, I'm Anurag 👋
+
+Welcome to my GitHub profile! I'm a passionate developer with a love for creating innovative solutions and exploring new technologies. Here's a bit about me:
+
+## 🚀 About Me
+
+- 🎓 I'm currently working in Enterprise Minds.
+- 💻 I enjoy working on web development, machine learning, and open-source projects.
+- 🌱 I'm always eager to learn new skills and improve my coding abilities.
+- 🎯 My goal is to contribute to impactful projects and collaborate with other developers.
+
+## 🛠️ Technologies & Tools
+
+- **Languages:**  JavaScript, Python, ASP.NET  
+- **Web Development:** HTML, CSS, React, Node.js
+- **Databases:** MySQL, MongoDB
+- **Tools:** Git, Docker, VS Code, J
+
+## 📈 GitHub Stats
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnuragS202&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnuragS202&layout=compact&theme=radical)
+
+## 📫 How to Reach Me
+
+- **Email:** anurag@example.com
+- **LinkedIn:** [AnuragS202](https://www.linkedin.com/in/anurags202/)
+- **Twitter:** [@AnuragS202](https://twitter.com/AnuragS202)
+
+## 🔭 Projects
 
 
 
-- 📝 I regularly write articles on [https://anurag24.hashnode.dev/](https://anurag24.hashnode.dev/)
+## 📝 Blog
 
-- 📫 How to reach me **anurag.singh202@gmail.com**
+Check out my latest blog posts on [Medium](https://medium.com/@AnuragS202):
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1IL3Rec2TeXYoF2wMaqc96gNd2nc22uKg/view?usp=drive_link)
+- **[Blog Post 1](https://medium.com/@AnuragS202/blog-post-1):** Brief description of the blog post.
+- **[Blog Post 2](https://medium.com/@AnuragS202/blog-post-2):** Brief description of the blog post.
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+## 🌟 Highlights
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/im_anurag24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="im_anurag24" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/anuragsingh202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/anuragsingh202" height="30" width="40" /></a>
-<a href="https://hashnode.com/@anurag24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@anurag24" height="30" width="40" /></a>
-</p>
+- **Achievements:** List any notable achievements or awards.
+- **Certifications:** List any relevant certifications.
+
+Thank you for visiting my profile! Feel free to reach out if you want to collaborate on a project or just have a chat.
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=AnuragS202&color=blue)
 
 
 

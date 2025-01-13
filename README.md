@@ -31,7 +31,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves creating inno
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AnuragS202&color=blue)
 
-## 🔭 Projects
+
 
 
 
@@ -42,10 +42,6 @@ Check out my latest blog posts on [Medium](https://medium.com/@AnuragS202):
 - **[Blog Post 1](https://medium.com/@AnuragS202/blog-post-1):** Brief description of the blog post.
 - **[Blog Post 2](https://medium.com/@AnuragS202/blog-post-2):** Brief description of the blog post.
 
-## 🌟 Highlights
-
-- **Achievements:** List any notable achievements or awards.
-- **Certifications:** List any relevant certifications.
 
 Thank you for visiting my profile! Feel free to reach out if you want to collaborate on a project or just have a chat.
 
@@ -57,4 +53,10 @@ Thank you for visiting my profile! Feel free to reach out if you want to collabo
 <!---
 AnuragS202/AnuragS202 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+## 🔭 Projects
+## 🌟 Highlights
+
+- **Achievements:** List any notable achievements or awards.
+- **Certifications:** List any relevant certifications.
+
 --->

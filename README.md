@@ -39,8 +39,8 @@ Welcome to my GitHub profile! I'm a passionate developer who loves creating inno
 
 Check out my latest blog posts on [Medium](https://medium.com/@AnuragS202):
 
-- **[Blog Post 1](https://medium.com/@AnuragS202/blog-post-1):** Brief description of the blog post.
-- **[Blog Post 2](https://medium.com/@AnuragS202/blog-post-2):** Brief description of the blog post.
+- **[Blog Post 1](https://medium.com/@anurag.singh202/unlock-seamless-navigation-a-guide-to-mastering-react-router-for-web-0b188ba10770?source=user_profile_page---------1-------------acaa0738397d---------------):** Brief description of the blog post.
+- **[Blog Post 2](https://medium.com/@anurag.singh202/unlock-seamless-navigation-a-guide-to-mastering-react-router-for-web-0b188ba10770?source=user_profile_page---------1-------------acaa0738397d---------------):** Brief description of the blog post.
 
 
 Thank you for visiting my profile! Feel free to reach out if you want to collaborate on a project or just have a chat.

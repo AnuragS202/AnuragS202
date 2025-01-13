@@ -48,7 +48,6 @@ Thank you for visiting my profile! Feel free to reach out if you want to collabo
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=AnuragS202&color=blue)
 
 
 

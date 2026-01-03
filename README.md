@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves creating inno
 
 ## 🚀 About Me
 
-- 🎓 I'm currently working in Enterprise Minds.
+- 🎓 I'm currently working in DAZN.
 - 💻 I enjoy working on web development, machine learning, and open-source projects.
 - 🌱 I'm always eager to learn new skills and improve my coding abilities.
 - 🎯 My goal is to contribute to impactful projects and collaborate with other developers.
